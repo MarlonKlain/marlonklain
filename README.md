@@ -73,12 +73,5 @@ My goal is to contribute to the development of innovative digital products while
     src="https://github-readme-stats.vercel.app/api?username=marlonklain&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonklain&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
           
