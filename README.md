@@ -51,6 +51,14 @@ My goal is to contribute to the development of innovative digital products while
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Github" 
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"" 
+/>
 <br/>
 <br/>
 
@@ -73,3 +81,6 @@ My goal is to contribute to the development of innovative digital products while
   />
 
 </p>
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+          
